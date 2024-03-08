@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "114036710900",
+    "project_id": "book-me-auth",
+    "storage_bucket": "book-me-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114036710900:android:7f6622480ed0c6a10aada1",
+        "android_client_info": {
+          "package_name": "com.example.book_me"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBBGrRVC71vPSmF1yxeWSGAJeMI5zMp4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
